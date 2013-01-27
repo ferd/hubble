@@ -1,0 +1,13 @@
+*.swp
+*.beam
+*.dump
+*.COVER.*
+doc/*.html
+doc/*.png
+doc/*.css
+doc/edoc-info
+logs/*.html
+logs/*.html
+logs/ct_*
+logs/*.js
+logs/variables*
